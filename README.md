@@ -4,7 +4,7 @@ Hi ! My name is Joe Stuart
 Data Scientist
 --------------
 
-Developing end-to-end data science and machine learning projects in python.
+I'm developing end-to-end data science and machine learning projects with python.
 
 * 🌍  I'm based in Dallas
 * 🖥️  See my portfolio at [MyPortfilio](http://eportfolio.mygreatlearning.com/joe-stuart)
