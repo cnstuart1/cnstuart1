@@ -7,7 +7,7 @@ Data Scientist
 I developing end-to-end data science and machine learning projects with python, SQL, and cloud technology providers. I'm a geospatial scientist passionate about promoting science and helping others understand analytics and machine learning to solve business problems!
 
 * 🌍  I'm based in Dallas
-* 🖥️  See my portfolio at [MyPortfolio]([http://eportfolio.mygreatlearning.com/joe-stuart](https://github.com/cnstuart1/portfolio))
+* 🖥️  See my portfolio at [MyPortfolio](http://eportfolio.mygreatlearning.com/joe-stuart)
 * 🖥️  See my portfolio at [MyGreatLearning-UTA](http://eportfolio.mygreatlearning.com/joe-stuart)
 * ✉️  You can contact me at [joe.stuart1@gmail.com](mailto:joe.stuart1@gmail.com)
 * 🧠  I'm learning Snowflake. Also showcasing projects on GitHub and Hashnode to share and help others.
