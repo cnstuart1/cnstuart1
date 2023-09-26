@@ -8,9 +8,10 @@ I developing end-to-end data science and machine learning projects with python, 
 
 * 🌍  I'm based in Dallas
 * 🖥️  See my portfolio at [MyPortfilio](http://eportfolio.mygreatlearning.com/joe-stuart)
+* 🖥️  See my portfolio at [MyPortfilio](http://eportfolio.mygreatlearning.com/joe-stuart)
 * ✉️  You can contact me at [joe.stuart1@gmail.com](mailto:joe.stuart1@gmail.com)
-* 🧠  I'm learning how to share helpful content
-* 🤝  I'm open to collaborating on projects and discussing business solutions.
+* 🧠  I'm learning Snowflake. Also showcasing projects on GitHub and Hashnode to share and help others.
+* 🤝  I'm open to collaborating on projects and discussing data science, analytics, and business solutions.
 * ⚡  Too soon.
 
 ### Skills
