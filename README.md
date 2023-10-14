@@ -4,7 +4,7 @@ Hi ! My name is Joe Stuart.
 Data Scientist
 --------------
 
-I developing end-to-end data science and machine learning projects with python, SQL, and cloud technology providers. I'm a geospatial scientist passionate about promoting science and helping others understand analytics and machine learning to solve business problems!
+I develope end-to-end data science and machine learning projects with python, SQL, and cloud technology providers. I'm a geospatial scientist passionate about promoting science and helping others understand analytics and machine learning to solve business problems!
 
 * 🌍  I'm based in Dallas
 * 🖥️  See my portfolio at [Portfolio](https://github.com/cnstuart1/portfolio)
