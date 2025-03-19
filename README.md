@@ -1,4 +1,4 @@
-Hi ! My name is Joe Stuart.
+Joe Stuart
 ==================================================================================================================================
 
 Data Scientist
@@ -6,7 +6,7 @@ Data Scientist
 
 I develope end-to-end data science and machine learning projects with python, SQL, and cloud technology providers. I'm a geospatial data scientist passionate about promoting science and helping others understand analytics and machine learning to solve business problems!
 
-* 🌍  I'm based in Dallas
+* 🌍  Previously based in Dallas, recently relocated to northwest Arkansas, Bentonville Fayetteville area.
 * 🖥️  See my portfolio at [Portfolio](https://github.com/cnstuart1/portfolio)
 * 🖥️  See my projects my Post Graduate Program in Data Science and Business Analytics at [University of Texas Austin](http://eportfolio.mygreatlearning.com/joe-stuart)
 * ✉️  You can contact me at [joe.stuart1@gmail.com](mailto:joe.stuart1@gmail.com)
